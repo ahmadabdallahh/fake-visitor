@@ -1,0 +1,29 @@
+# Working Proxies (Tested and Verified)
+# Format: IP:PORT
+
+# HTTP Proxies
+162.55.8.72:5432
+195.154.255.74:8118
+185.162.251.76:8080
+185.162.251.84:8080
+185.162.251.85:8080
+
+# SOCKS5 Proxies (More reliable)
+51.158.68.133:1080
+51.158.99.31:1080
+51.158.111.185:1080
+51.158.111.229:1080
+
+# Premium Proxy Sources (Paid but reliable):
+# - Bright Data (Luminati)
+# - Oxylabs
+# - Smartproxy
+# - Storm Proxies
+
+# Free Proxy Lists (Updated regularly):
+# https://free-proxy-list.net/
+# https://www.proxy-list.download/HTTPS
+# https://hidemy.name/en/proxy-list/?type=h&maxtime=1000
+
+# Note: Free proxies are unreliable for serious testing
+# Use paid proxies for production load testing

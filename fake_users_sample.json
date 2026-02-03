@@ -1,0 +1,73 @@
+{
+  "fake_users_sample": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith456@gmail.com",
+      "username": "john234",
+      "age": 28,
+      "gender": "Male",
+      "country": "US",
+      "city": "New York",
+      "device": "Desktop",
+      "browser": "Chrome",
+      "ip": "192.168.1.105",
+      "session_id": "sess_456789_1642694400",
+      "referrer": "https://www.google.com",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+      "screen_resolution": "1920x1080",
+      "timezone": "UTC-5",
+      "language": "en-US"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson789@yahoo.com",
+      "username": "sarah567",
+      "age": 34,
+      "gender": "Female",
+      "country": "UK",
+      "city": "London",
+      "device": "Mobile",
+      "browser": "Safari",
+      "ip": "172.16.0.45",
+      "session_id": "sess_234567_1642694400",
+      "referrer": "https://www.facebook.com",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1",
+      "screen_resolution": "390x844",
+      "timezone": "UTC+0",
+      "language": "en-GB"
+    },
+    {
+      "id": 3,
+      "name": "Michael Garcia",
+      "email": "michael.garcia123@hotmail.com",
+      "username": "michael890",
+      "age": 42,
+      "gender": "Male",
+      "country": "CA",
+      "city": "Toronto",
+      "device": "Tablet",
+      "browser": "Chrome",
+      "ip": "10.0.0.78",
+      "session_id": "sess_789012_1642694400",
+      "referrer": "https://twitter.com",
+      "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-T870) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+      "screen_resolution": "1600x2560",
+      "timezone": "UTC-5",
+      "language": "en-CA"
+    }
+  ],
+  "description": "Sample fake user profiles generated for load testing",
+  "total_users": 100,
+  "features": [
+    "Realistic names and emails",
+    "Device-specific User-Agents",
+    "Geographic diversity",
+    "Session management",
+    "Cookie simulation",
+    "IP address rotation",
+    "Referrer tracking",
+    "Browser fingerprinting"
+  ]
+}
